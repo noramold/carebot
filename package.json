@@ -1,0 +1,34 @@
+{
+  "name": "careb0t",
+  "version": "0.0.1",
+  "description": "Discord bot always running",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "canvas": "^2.6.1",
+    "discord-emoji-convert": "^1.6.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.3.1",
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^8.2.0",
+    "env": "0.0.2",
+    "jimp": "^0.16.1",
+    "reddit": "^1.2.1",
+    "reddit-fetch": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noramold/cloud_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noramold/cloud_bot/issues"
+  },
+  "homepage": "https://github.com/noramold/cloud_bot#readme"
+}
