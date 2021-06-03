@@ -9,6 +9,7 @@
     "discord-emoji-convert": "^1.6.0",
     "discord-reply": "^0.1.2",
     "discord.js": "^12.3.1",
+    "discord.js-pagination": "^1.0.3",
     "dotenv": "^8.2.0",
     "env": "0.0.2",
     "jimp": "^0.16.1",
