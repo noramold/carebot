@@ -26,7 +26,7 @@ config({
 
 client.on("ready", () => {
     console.log(`${client.user.username} is now online!`);
-    client.user.setActivity(`${prefix}` + "hotlines" + "|| here for you <3" + { type: "PLAYING" });
+    client.user.setActivity(`${prefix}` + "hotlines" + "|| here for you <3");
 })
 
 client.on("message", async message => {
