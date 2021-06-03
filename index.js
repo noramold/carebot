@@ -107,7 +107,6 @@ var words =
     "suicidal", 
     "self-harm", 
     "self harm",
-    "test", 
     "kill myself", 
     "kms", 
 ]
